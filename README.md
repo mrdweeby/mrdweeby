@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Emir Kahraman</h1>
-<h3 align="center">23 Years old Game Developer from Turkey.</h3>
+<h3 align="center">23 Years old CENG Student from Turkey.</h3>
 
 - I’m currently learning **C# Programming for Unity Game Development Specialization**
 
